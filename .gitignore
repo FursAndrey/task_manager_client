@@ -1,6 +1,1 @@
 vendor/
-_taskIterator.php
-_TaskManagerClient.php
-_TaskManagerRequest.php
-_UUIDGenerate.php
-composer.phar
